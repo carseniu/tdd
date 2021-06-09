@@ -1,0 +1,15 @@
+classes/
+bin/
+.settings/
+.META-INF/
+META-INF/
+pmdConnectorClient.jar
+testresults/
+temp/
+packages/**/*.jar
+.classpath
+.project
+.idea
+target/
+*.iml
+*.bak
